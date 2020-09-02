@@ -10,9 +10,13 @@ Modelling Goal: Propensity model to predict the likelihood of travel booking in 
   1.1.1 Data Overview & Manipulation 
   1.2.1 Data Manipulation - converting variables into the right type
   1.2.2 Data Manipulation - Missing value imputation 
+	
+	
 2.Exploratory Data Analysis 
   2.1 Travel Booking in Data
   2.2 Variable Distribution in Travel Booking
+	
+	
 3.Statistical Summary
 4.Data Preprocessing
 5.Correlation Analysis
@@ -46,4 +50,5 @@ Modelling Goal: Propensity model to predict the likelihood of travel booking in 
 9.Bias and Fairness Analysis
 10.Monitoring 
   10.1 Population Stability Index 
+
 
