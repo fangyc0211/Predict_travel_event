@@ -41,9 +41,9 @@ Modelling Goal: Propensity model to predict the likelihood of travel booking in 
 		
     		6.3.2 Bias/Variance trade-off
 		
-		6.3.3 Hyperparameter tuning using k-fold cross validation
+			6.3.3 Hyperparameter tuning using k-fold cross validation
 		
-    		6.3.4 Adjust weights for imbalanced data
+			6.3.4 Adjust weights for imbalanced data
 		
  	6.5 Logisitc regression with Random Undersampling the Majority Class
 	
